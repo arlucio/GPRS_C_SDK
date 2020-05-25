@@ -143,7 +143,7 @@
 
 
 #define err_to_errno         CSDK_FUNC(err_to_errno)
-#define errno                CSDK_FUNC(Socket_GetLastError)()
+// #define errno                CSDK_FUNC(Socket_GetLastError)()
 
 
 #endif
